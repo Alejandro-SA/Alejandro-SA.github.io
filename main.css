@@ -1,0 +1,8 @@
+.defaultform {background-color: bisque; width: 50vW; height:60vh; margin:0 auto;  display: grid; grid-template-columns: 5vw 15vw 10vw 15vw 5vw ;grid-template-rows: 25vh 10vh 25vh ; margin-top: 20vh}
+#bot1 {grid-row:2/3;
+        grid-column:2/3;
+        padding: 0; margin: 0;}
+
+ #bot2{grid-row:2/3;
+    grid-column:4/5;
+        padding:0; margin:0; }
